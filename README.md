@@ -119,8 +119,9 @@ projeto
 - [TensorFlow](https://www.tensorflow.org/?hl=pt-br): Biblioteca para criação e treinamento da rede neural convolucional para embeddings faciais.
 - [Scikit-Learn](https://scikit-learn.org/stable/): Biblioteca para treinamento e avaliação do classificador SVM e pré-processamento de labels.
 - [Pandas](https://pandas.pydata.org/): Biblioteca para organização e visualização tabular dos resultados.
-- - [Python](https://www.python.org/): Linguagem de programação utilizada em todo o projeto.
+- [Python](https://www.python.org/): Linguagem de programação utilizada em todo o projeto.
 - [Google Collab](https://colab.google/): O Google Colab (ou Colaboratory) é um ambiente de desenvolvimento integrado (IDE) gratuito e baseado em nuvem que permite escrever e executar código Python diretamente no navegador, sem necessidade de instalação ou configuração.
+- [Adriana]: Adriana La Cerva é uma personagem fictícia da série de TV The Sopranos , da HBO , interpretada por Drea de Matteo .
 
 ---
 
