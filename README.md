@@ -1,4 +1,6 @@
-<img width="753" height="572" alt="sopranosFundo" src="https://github.com/user-attachments/assets/60a089a1-ccf9-4bbc-9dd6-75b4321af8b6" />
+<div align="center">
+  <img width="753" height="572" alt="sopranosFundo" src="https://github.com/user-attachments/assets/60a089a1-ccf9-4bbc-9dd6-75b4321af8b6" />
+</div>
 
 ---
 
