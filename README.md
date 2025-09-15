@@ -73,7 +73,7 @@ Obs: há um problema que o sistema não está treinado para cada rosto, então t
 * NumPy – Operações numéricas e manipulação de matrizes/vetores
 * Pandas – Organização e exibição dos resultados em formato de tabela
 * Pickle – Salvamento e carregamento do modelo treinado
-* oogle Colab
+* Google Colab
 
 ---
 
